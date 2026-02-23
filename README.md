@@ -342,7 +342,7 @@ Their [mission](https://home.unicode.org/press/) is to
 > Enable people around the world to use computers in any language.
 
 This is an extremely difficult and politically-sensitive task for internationally used languages like Chinese.
-Chinese characters are used not just in mainland China and Taiwan, but also in Malasia, Singapore, Hong Kong, Macau, Vietname, South Korea, North Korea, and Japan.
+Chinese characters are used not just in mainland China and Taiwan, but also in Malaysia, Singapore, Hong Kong, Macau, Vietnam, South Korea, North Korea, and Japan.
 Representatives from all of these societies have been working together since 1991 on a process called [Han Unification](https://en.wikipedia.org/wiki/Han_unification) to figure out how to create a single system for representing Chinese characters that will work for anyone.
 For the most part, they've been tremendously successful, [although Japanese speakers still commonly complain that their characters aren't quite right](https://heistak.github.io/your-code-displays-japanese-wrong/).
 
